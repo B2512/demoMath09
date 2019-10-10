@@ -1,4 +1,4 @@
-package yeqingnan;
+package b2512.yeqingnan;
 
 import java.util.Scanner;
 
